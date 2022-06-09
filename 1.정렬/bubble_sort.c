@@ -1,4 +1,5 @@
 // 여러 단어가 담겨있는 'WORD.txt' 파일을 읽어 buble sort로 정렬하고, 'bubble.txt'에 저장한다.
+#include <stdio.h>
 
 int main()
 {
